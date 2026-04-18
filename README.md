@@ -2,7 +2,7 @@
 
 # 👋 Wassim BELAID
 
-### ⚡ Ingénieur en Électrotechnique & Automatisation Industrielle
+### ⚡ Ingénieur en Électrotechnique 
 
 *MSc Electrical Engineering — HES-SO Lausanne, Switzerland* 🇨🇭
 
