@@ -2,15 +2,16 @@
 
 # 👋 Wassim BELAID
 
-### ⚡ Ingénieur en Électrotechnique
+### ⚡ Ingénieur en Électrotechnique & Automatisation Industrielle
 
 *MSc Electrical Engineering — HES-SO Lausanne, Switzerland* 🇨🇭
 
 [![Location](https://img.shields.io/badge/Switzerland-Lausanne-DA291C?style=flat-square)](https://www.hes-so.ch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassim-belaid-984b21298/)
 [![Email](https://img.shields.io/badge/Email-wassimbelaid05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wassimbelaid05@gmail.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Live_Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/wassimbelaid05-eie)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wassimbelaid05-EIE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([[https://linkedin.com](https://www.linkedin.com/in/wassim-belaid-984b21298/)]
+
 </div>
 
 ---
@@ -184,9 +185,9 @@ Ouvert aux opportunités en **ingénierie électrique**, **automatisation indust
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Wassim_BELAID-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassim-belaid-984b21298/)
 [![Email](https://img.shields.io/badge/📧_Email-wassimbelaid05%40gmail.com-D14836?style=for-the-badge)](mailto:wassimbelaid05@gmail.com)
 [![Streamlit](https://img.shields.io/badge/🚀_Applications_Live-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/wassimbelaid05-eie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([[https://linkedin.com](https://www.linkedin.com/in/wassim-belaid-984b21298/)
 
 📍 **Lausanne, Suisse** · 💼 **Disponible pour collaborations & opportunités**
 
